@@ -1,5 +1,6 @@
 # att-tech-gantt
 
+```mermaid
 gantt
     title Projeto - Sistema de Cadastro de Empresas Parceiras
     dateFormat  YYYY-MM-DD
